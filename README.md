@@ -1,1 +1,1 @@
-# 📘 Grid Quant Notes
+# 📘 Quant Strategies Notes
