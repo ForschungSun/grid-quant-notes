@@ -1,1 +1,1 @@
-# grid-quant-notes
+# 📘 Grid Quant Notes
